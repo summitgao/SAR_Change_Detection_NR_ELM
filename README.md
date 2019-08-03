@@ -4,13 +4,15 @@ The files are the MATLAB source code for the paper:
 
 Feng Gao,  Junyu Dong, Bo Li, Qizhi Xu, Cui Xie. 
 
-Change Detection from Synthetic Aperture Radar Images Based on Neighborhood-Based Ratio and Extreme Learning Machine 
-
-Journal of Applied Remote Sensing. 10(4), 2016.
+Change Detection from Synthetic Aperture Radar Images Based on Neighborhood-Based Ratio and Extreme Learning Machine. *Journal of Applied Remote Sensing*. 10(4), 2016.
 
 The demo has not been well organized. Please contact me if you meet any problems.
 
-Email: gaofeng@ouc.edu.cn
+**Please cite our paper if you use our codes. Thanks!**
+
+If you have any queries, please do not hesitate to contact me (gaofeng AT ouc.edu.cn).
+
+More codes can be obtained from http://feng-gao.cn
 
 注意事项：
 
